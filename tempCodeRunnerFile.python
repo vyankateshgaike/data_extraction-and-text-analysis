@@ -1,0 +1,37 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+# Load the input data
+df = pd.read_excel("Input.xlsx")
+
+# Initialize an empty list to store the extracted data
+doc = []
+
+# Iterate over each row in the DataFrame
+for index, row in df.iterrows():
+    url = row['URL']
+    
+    try:
+        # Send a GET request to the URL
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for 4xx and 5xx status codes
+
+        # Parse the HTML content
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Extract the article title
+        title = soup.find('h1').get_text(strip=True)
+
+        # Extract the article content
+        article_content = soup.find('div', class_='td-post-content').get_text()
+
+        # Append the extracted title and content to the list as a tuple
+        doc.append((title, article_content))
+    
+    except Exception as error:
+        print(f'Error for {url}: {error}')
+        continue
+
+# Print the list of extracted data
+print(doc)

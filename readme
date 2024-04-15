@@ -1,0 +1,18 @@
+----Apporoch to the solution ----
+Data Extraction: First, the provided Python script is used to extract text content from the URLs specified in the "Input.xlsx" file. This script iterates over each row in the Excel file, retrieves the HTML content of the webpage, extracts the article title and content, and saves them in text files.
+
+Text Analysis: After extracting the text content, another Python script is used to perform textual analysis on each extracted text file. This script reads the text files, processes the text to calculate various metrics such as sentiment scores, readability indices, and other variables specified in the "Text Analysis.docx" document.
+
+Output Generation: Finally, the computed metrics are saved into a CSV or Excel file in the same format as specified in the "Output Data Structure.xlsx" file.
+
+----HOW to Run----
+Place your input Excel file containing URLs in the project directory.
+Run the extraction_analysis.py script to extract text data from URLs and perform analysis.
+View the generated output Excel file (Output Data Structure.xlsx) to access the computed text analysis metrics.
+
+--The project depends on these libraries:--
+
+Pandas: For data handling.
+Requests: For fetching web content.
+BeautifulSoup: For parsing HTML.
+NLTK: For text processing.

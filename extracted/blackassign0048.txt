@@ -1,0 +1,26 @@
+How Data Analytics can help your business respond to the impact of COVID-19?
+
+Before we get into the whole discussion, let’s first discuss the basic working of data analysis.
+Data analysisis defined as a process of cleaning, transforming, and modeling data to discover useful information for business decision-making.
+Using data analysis, we can extract useful information from the given data and then take corresponding decisions based upon the analyzed data.
+During the pandemic known as COVID-19, many businesses failed to grow whereas many touched the sky, for example, the transportation of raw materials was drastically low because:
+The nationwide lockdown was imposed,Low production due to a smaller number of workers,Storage facilities were shut down, and many more for such reasons.
+The nationwide lockdown was imposed,
+Low production due to a smaller number of workers,
+Storage facilities were shut down, and many more for such reasons.
+On the other hand, new business/startups got a chance to compete in the market by getting early responses from the companies they wanted to tie up with or from the head of the companies that they wanted investments from.
+The data analysis can help businesses in many ways such as:
+Using different statistical models that are used in data analysis, the businesses can predict the approximate requirement for the product in the near future and hence they can produce it accordingly.It makes it easier to track the requirement and produce the product accordingly.Because of the lockdown, people had to start working from home, which became a huge advantage for the businesses as they would get quicker responses from their tie-ups.Using data analysis, businesses can create several models and structures to measure the growth of the company and also to make devised plans to increase the revenues and decrease the losses.
+Using different statistical models that are used in data analysis, the businesses can predict the approximate requirement for the product in the near future and hence they can produce it accordingly.
+It makes it easier to track the requirement and produce the product accordingly.
+Because of the lockdown, people had to start working from home, which became a huge advantage for the businesses as they would get quicker responses from their tie-ups.
+Using data analysis, businesses can create several models and structures to measure the growth of the company and also to make devised plans to increase the revenues and decrease the losses.
+Data analysis provides different analytical techniques such as:
+Text AnalysisStatistical AnalysisDiagnostic AnalysisPredictive AnalysisPrescriptive Analysis
+Text Analysis
+Statistical Analysis
+Diagnostic Analysis
+Predictive Analysis
+Prescriptive Analysis
+Using these techniques, businesses can analyze everything and predict almost anything.
+These techniques, tools, and models, can help businesses tackle this horrendous situation that is COVID-19.
