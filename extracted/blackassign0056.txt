@@ -1,0 +1,28 @@
+Impact of AI in health and medicine
+
+AI allows those in training to go through naturalistic simulations in a way that simple computer-driven algorithms cannot. The advent of natural speech and the ability of an AI  computer to draw instantly on a large database of scenarios means the response to questions, decisions, or advice from a trainee can challenge in a way that humans cannot in health and medicine
+Wearable health trackers-like those fromFitBit,Apple,Garmin, and others- monitor health rate and activity levels. They can send alerts to the user to get more exercise and can share this information with doctors.
+Technology applications andapps encourage healthier behaviorin individuals and help with the proactive management of a healthy lifestyle.AI increases the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care, for better feedback, guidance, and support.
+Technology applications andapps encourage healthier behaviorin individuals and help with the proactive management of a healthy lifestyle.
+AI increases the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care, for better feedback, guidance, and support.
+Machine learning algorithmscan process unimaginable amounts of information in the blink of an eye and provide more precision than humans in spotting even the smallest detail in medical imaging.  A few of them areBlackford,Zebra,Enlitic,Lunit.
+The company “Zebra Medical Vision” developed a new platform called profound, which analyzes all types of medical imaging reports that are able to find every sign of potential conditions such as osteoporosis, aortic aneurysms, and many more with a 90% accuracy rate.
+For eg,the digital health firm #HealthTapdeveloped “Dr. AI”, and apps like Babylon in the UK use AI to give medical consultations based on personal medical history and common medical knowledge. Users report their symptoms into the app, which uses speech recognition to compare against a database of illness and asks patients to specify symptoms to triage whether they should go to the ED, urgent care, or a primary care doctor.
+AI robot-assisted surgery: Robots have been used in medicine for more than 30 years. Surgical robots can either aid a human surgeon or execute operations by themselves. They’re also used in hospitals and labs for repetitive tasks, in rehabilitation, physical therapy, and in support of those with long-term conditions.
+Health chatbots such asBabylon,Ada,and mostly close-ended communications.
+Provides formal conceptual Framework for input processing and decision making in diagnosis and managementObjective decision making with less varianceHigh speed and efficiencyUnlock the power of big data and gain insight into patients.Support evidence-based decision-making, improving quality, safety, and efficiency.Coordination care and faster communicationImprove patient experiences and outcomesDeliver value and reduce costsImprove health system performance and optimization
+Provides formal conceptual Framework for input processing and decision making in diagnosis and management
+Objective decision making with less variance
+High speed and efficiency
+Unlock the power of big data and gain insight into patients.
+Support evidence-based decision-making, improving quality, safety, and efficiency.
+Coordination care and faster communication
+Improve patient experiences and outcomes
+Deliver value and reduce costs
+Improve health system performance and optimization
+#MICROSOFT: Predictive analysis in vision care
+#GOOGLE: clinical decision support in breast cancer diagnosis
+#IBM WATSON: precision medicine in population health management
+Actionable medical insights:  An ever-increasing amount of medical data are being digitized at all public and private healthcare institutions. However, by its very nature, this kind of data is messy and unstructured. Unlike other types of business data, where traditional statistical methods can be used for quick insights, patient data is not particularly amenable to simple modeling and analytics tools.
+For eg.-Enlitic, a San Francisco-basedstart-up, has a mission of mixing intelligence with empathy and leverage the power of AI in health and medicine for precisely generating.
+Therefore, a massive parallel effort to rationalize the legal and policy-making is needed to bring the full benefit of advancement in AI technologies into the healthcare space. As technologies and AI/ML enthusiasts, we can only hope for such a bright future where the power of this intelligence.
